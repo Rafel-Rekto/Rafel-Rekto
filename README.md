@@ -1,12 +1,20 @@
 # Yo I'm Rafel 👋
 
+---
+
 ![cat](https://github.com/Rafel-Rekto/Rafel-Rekto/blob/main/Img/Cat_animation.gif?raw=true)
+
+---
 
 - 🔭 I’m currently working on ...
 
-#### Play with me
+---
+
+#### Play with snake
 
 <img src="https://raw.githubusercontent.com/Rafel-Rekto/Rafel-Rekto/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **Rafel-Rekto/Rafel-Rekto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
