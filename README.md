@@ -2,6 +2,8 @@
 
 ![cat](img/Cat%20animation.gif)
 
+- 🔭 I’m currently working on ...
+
 <!--
 **Rafel-Rekto/Rafel-Rekto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
