@@ -1,6 +1,6 @@
 # Hello I'm Rafel 👋
 
-![cat](img/Cat%20animation.gif)
+![cat](https://github.com/Rafel-Rekto/Rafel-Rekto/blob/main/Img/Cat%20animation.gif?raw=true)
 
 - 🔭 I’m currently working on ...
 
