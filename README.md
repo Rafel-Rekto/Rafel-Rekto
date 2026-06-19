@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/Rafel-Rekto/Rafel-Rekto/blob/main/Img/Cat_animation.gif?raw=true" width="350">
+<img src="https://github.com/Rafel-Rekto/Rafel-Rekto/blob/main/Img/Cat_animation.gif?raw=true" width="420">
 </div>
 
 <div align="center">
@@ -18,21 +18,17 @@
 
 </div>
 
-<h5>👨‍💻 About Me</h5>
+<h3>👨‍💻 About Me</h3>
 <table>
 <tr>
 <td valign="top" width="55%">
 
 <p>
-<sub>
 ⚡ Electrical Engineering student at ITS with a strong interest in robotics, embedded systems, AI, and software engineering.
-</sub>
 </p>
 
 <p>
-<sub>
 🚀 Continuously learning and building innovative technologies that connect hardware and software.
-</sub>
 </p>
 </td>
 
@@ -40,7 +36,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rafel-Rekto&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=ff6fb0&icon_color=ffd700&text_color=ffffff&bg_color=0d1117&border_color=ff6fb0&custom_title=Rafel's%20GitHub%20Stats" alt="Rafel's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafel-Rekto&layout=donut-vertical&hide_border=false&title_color=ff6fb0&text_color=ffffff&bg_color=0d1117&border_color=ff6fb0&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafel-Rekto&layout=compact&hide_border=false&title_color=ff6fb0&text_color=ffffff&bg_color=0d1117&border_color=ff6fb0&langs_count=8" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafel-Rekto&background=0d1117&ring=ff6fb0&fire=ffd700&currStreakLabel=ff6fb0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=ff6fb0" alt="GitHub Streak" />
 
@@ -50,7 +46,7 @@
 
 ---
 
-##### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,androidstudio,vscode,cpp,kotlin,python&theme=dark&perline=3)](https://skillicons.dev)
 
